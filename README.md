@@ -1,8 +1,12 @@
 # mahalla_backend
 
 1. First clone or Fork the repository
-2. Install npm dependencies
-3. create env file (.env.development.local, .env.production.local, .env.test.local)
+2. Install dependencies
+```
+# NPM
+npm install
+```
+4. create env file (.env.development.local, .env.production.local, .env.test.local)
 ```# PORT
 PORT = 3000
 
@@ -24,4 +28,8 @@ LOG_DIR = ../logs
 ORIGIN = *
 CREDENTIALS = true
 ```
-4. npm run dev
+4. Run in dev mode
+```
+# NPM
+npm run dev
+```
