@@ -6,7 +6,7 @@
 # NPM
 npm install
 ```
-4. create env file (.env.development.local, .env.production.local, .env.test.local)
+3. create env file (.env.development.local, .env.production.local, .env.test.local)
 ```# PORT
 PORT = 3000
 
